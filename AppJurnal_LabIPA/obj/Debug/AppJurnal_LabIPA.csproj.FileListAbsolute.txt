@@ -1,0 +1,10 @@
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\bin\Debug\AppJurnal_LabIPA.exe.config
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\bin\Debug\AppJurnal_LabIPA.exe
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\bin\Debug\AppJurnal_LabIPA.pdb
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.csproj.AssemblyReference.cache
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.Form1.resources
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.Properties.Resources.resources
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.csproj.GenerateResource.cache
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.csproj.CoreCompileInputs.cache
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.exe
+E:\Data Slam\Kuliah\SEMESTER 6\Pemorgraman Visual - Pak Bahrul\Tugas\AppJurnal_LabIPA\AppJurnal_LabIPA\obj\Debug\AppJurnal_LabIPA.pdb
